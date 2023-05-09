@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: azure;
+}
+.header{
+    padding-left: 20px;
+    position: relative;
+    background-color: rgb(182, 175, 175);
+    text-decoration: none;
+    width: 100%;
+    align-items: center;
+    color: aqua;
+}
+.Logo{
+    padding-top: 20px;
+}
+li a{
+    text-decoration: none;
+    text-align: center;
+    position: relative;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    justify-content: space-around;
+}
